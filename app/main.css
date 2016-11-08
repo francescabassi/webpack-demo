@@ -1,0 +1,16 @@
+/*:global(body) {
+  background: cornsilk;
+}
+
+:local(.redButton) {
+  background: red;
+}*/
+
+body {
+  background: cornsilk;
+}
+
+.redButton {
+  background: red;
+  border: 1px solid grey;
+}
